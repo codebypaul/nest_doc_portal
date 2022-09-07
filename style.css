@@ -1,0 +1,29 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+}
+section{
+    min-height: 100%;
+}
+a{
+    text-decoration: none;
+    color: rgb(243,114,78);
+}
+a:hover{
+    color: red;
+}
+span{
+    font-weight: bold;
+}
+span.footer{
+    font-weight: 300;
+}
+footer{
+    position: relative;
+    bottom: 0;
+    padding-top: 2rem;
+}
